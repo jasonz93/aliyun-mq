@@ -1,0 +1,10 @@
+/.idea
+node_modules
+/logs
+/cmake-build-debug
+/sdk/lib/lib-boost-share
+/sdk/example
+/sdk/SDK_GUIDE.pdf
+/build
+*.log
+npm-debug.log*

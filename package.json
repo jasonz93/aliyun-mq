@@ -1,0 +1,16 @@
+{
+  "name": "ali-mq",
+  "version": "0.0.0",
+  "author": {
+    "name": "Sihao Zhang",
+    "url": "http://www.agarage.org"
+  },
+  "scripts": {
+    "install": "./node_modules/.bin/ncmake rebuild",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "node-cmake": "^2.2.1",
+    "nan": "^2.5.1"
+  }
+}
